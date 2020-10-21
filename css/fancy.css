@@ -1,0 +1,84 @@
+@font-face {
+    font-family: gungsuh;
+    src: url("https://ipv4.ftp.uuoc.me:21443/new%20fancy/font/gungsuh.ttf") format("truetype");
+}
+table{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 20px;
+    max-width: 100%;
+    width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 10px;
+
+}
+#ptime{
+    font-weight: bolder;
+    color: #d10019;
+}
+#head_title{
+    color: #384452;
+    margin-left: 50px;
+    font-size: 20px;
+    font-family: "黑体";
+    font-weight: 900;
+}
+#head_title a:visited{
+    color: #384452;
+}
+#indextitle{
+    font-size: 25px;
+}
+th{
+    border-bottom-color: #0b2e13;
+    height:50px;
+}
+tr{
+    height: 27px;
+    font-size: 16px;
+}
+a:link{
+    text-decoration: none;
+    color: #088acb;
+}
+table tr:hover{
+    background-color: #e0f2fc;/
+}
+table tr td a:visited{
+    color: #088acb;
+}
+#list{
+    padding: 20px;
+}
+#备{
+    font-family: 楷体;
+    font-size: 15px;
+    font-weight: lighter;
+}
+.footer{
+    clear: both;
+    /*font-family: ;*/
+    margin-top: 100px;
+    width: 100%;
+    height: 300px;
+    /*float: bottom;*/
+    /*bottom: 0px;*/
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+    text-align:center;
+    font-size: 15px;
+    background-color: #384452;
+    color: #bfc9d3;
+}
+.footer a:visited{
+    color: #bfc9d3;
+}
+div div #switch_dark{
+    font-size:15px;
+    color: white;
+    background-color: #3D5054;
+    color:white;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+}
