@@ -43,7 +43,7 @@ function change_to_dark() {
     }
     else{
         change_color="#a9a9a9";
-        alert(change_color);
+        // alert(change_color);
         document.cookie="darkmodel=1";
         document.body.style.backgroundColor="#141413";
         document.getElementById("list").style.color="#FFFFFF";
