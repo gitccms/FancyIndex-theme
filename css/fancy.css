@@ -1,0 +1,135 @@
+@font-face {
+    font-family: gungsuh;
+    src: url("https://ipv4.ftp.uuoc.me:21443/new%20fancy/font/gungsuh.ttf") format("truetype");
+}
+table{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 20px;
+    max-width: 100%;
+    width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 10px;
+
+}
+#ptime{
+    font-weight: bolder;
+    /*color: #f7c872;*/
+}
+#head_annocement{
+    color: #f7c872;
+    text-align: center;
+    float: left;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#head_title{
+    color: #384452;
+    /*margin-left: 50px;*/
+    font-size: 20px;
+    font-family: "黑体";
+    font-weight: 900;
+}
+#head_title a:visited{
+    color: #384452;
+}
+#indextitle{
+    font-size: 25px;
+}
+th{
+    border-bottom-color: #0b2e13;
+    height:50px;
+}
+tr{
+    height: 27px;
+    font-size: 16px;
+}
+a:link{
+    text-decoration: none;
+    color: #088acb;
+}
+table tr:hover{
+    background-color: #e0f2fc;/
+}
+table tr td a:visited{
+    color: #088acb;
+}
+#list{
+    padding: 20px;
+}
+#备{
+    font-family: 楷体;
+    font-size: 15px;
+    font-weight: lighter;
+}
+div div #switch_dark{
+    font-size:15px;
+    color: white;
+    background-color: #3D5054;
+    color:white;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+}
+.footer{
+    /*font-family: ;*/
+    background: #252525;
+    color: #9b9ea0;
+    text-align: center;
+    /*left: 0;*/
+    /*position: fixed;*/
+    /*bottom: 0;!*这里换成top:0;就悬浮在头部*!*/
+    /*z-index: 100;*/
+}
+.footer a{
+    text-decoration: none;
+    color: #9b9ea0;
+}
+.footer a:visited{
+    color: #9b9ea0;
+    /*color: #bfc9d3;*/
+}
+body{
+    margin: 0px;
+}
+#dbody{
+    width: 100%;
+    background-color: #ffffff;
+}
+#dfoot{
+    clear: both;
+    width: 100%;
+    /*height: 300px;*/
+    text-align: center;
+}
+#f1{
+    float: left;
+    width: 33%;
+}
+#f2{
+    /*float: left;*/
+    clear: both;
+    text-align: center;
+    width: 100%;
+    margin: 10px;
+}
+#f3{
+    float: left;
+    width: 33%;
+}
+
+#foot_logo{
+    clear: both;
+    width: 100px;
+    height: 100px;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#ipv6_logo{
+    float: right;
+    height: 20px;
+    width: 15%;
+}
