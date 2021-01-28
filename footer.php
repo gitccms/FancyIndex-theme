@@ -17,7 +17,7 @@
     <br><br><br><br><br><br>
 
     <span><a href="#top">回到顶部</a></span><br><br>
-    <a href="https://github.com/zhangyucheng1021/fancy-files"><i class="fab fa-github">项目开源代码</i></a> <br><br><br>
+    <a href="https://github.com/zhangyucheng1021/fancy-files/tree/master"><i class="fab fa-github">项目开源代码</i></a> <br><br><br>
     © YOCEN 2020-<?php echo date("Y") ?> All Rights Reserved.<br><br>
     <a id="备" href="http://www.beian.miit.gov.cn/">鲁ICP备20031334号</a> <br><br>
     <!--    </div>-->
